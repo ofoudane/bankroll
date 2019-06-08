@@ -15,6 +15,7 @@ Notez-bien que l'utilisateur "bankroll:B@nkr01l" est utilisé lors de la connexi
 Pour réaliser ce site, j'ai utilisé plusieurs langages de programmation et de balisage, à savoir : 
 * Front-end : Javascript, HTML et CSS.
 * Back-end  : PHP et PL/pgSQL.
+
 J'ai aussi employé des librairies javascript, notamment:
 * JQuery : Pour manipuler plus facilement, les noeuds présents sur une page web et éxecuter les requêtes Http (GET et POST).
 * Chart.js : Pour ajouter une visualisation graphique des données.
