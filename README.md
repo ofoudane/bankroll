@@ -1,6 +1,6 @@
 # bankroll
 ## Introduction
-Ce site représente ma première expérience en développement Web. Grâce à ce projet qui a duré une semaine, j'ai pû appliquer mes connaissances en développement Web.
+Ce site représente pour moi, ma première expérience en développement Web. Grâce à ce projet qui a duré une semaine, j'ai pû appliquer mes connaissances en développement Web.
 Voous pouvez tester ce site web sur le lien suivant  : http://ofoudane.a2hosted.com/bankroll/ .
 ## Installation
 Afin de tester ce site web, vous devrez suivre les étapes suivantes :
