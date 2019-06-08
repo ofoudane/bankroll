@@ -1,9 +1,9 @@
 # bankroll
 ## Introduction
 Ce site représente pour moi, ma première expérience en développement Web. Grâce à ce projet qui a duré une semaine, j'ai pû appliquer mes connaissances en développement Web.
-Voous pouvez tester ce site web sur le lien suivant  : http://ofoudane.a2hosted.com/bankroll/ .
+Vous pouvez tester ce site web sur le lien suivant  : http://ofoudane.a2hosted.com/bankroll/ .
 ## Installation
-Afin de tester ce site web, vous devrez suivre les étapes suivantes :
+Afin de tester ce site web en local, vous devrez suivre les étapes suivantes :
 1. Sous une base de données PostgreSQL, lancez la commande \i Install.sql pour préparer la base de données du site web. 
 2. Copiez le contenu du répertoire Web dans votre serveur Web.
 3. Assurez que le répertoire bankroll-connect soit placer dans le même répertoire parent vers lequel vous avez copié le contenu du répertoire Web.
