@@ -9,7 +9,7 @@ Afin de tester ce site web en local, vous devrez suivre les étapes suivantes :
 3. Assurez que le répertoire bankroll-connect soit placer dans le même répertoire parent vers lequel vous avez copié le contenu du répertoire Web.
 4. Testez le site web.
 
-Notez-bien que l'utilisateur "bankroll:B@nkr01l" est utilisé lors de la connexion à la base de données "bankroll" sur laquelle sont enregistrées les données receuillis du site web. Vous pouvez changer l'utilisateur, ainsi que la base de données utilisée, en mettons à jour les fichiers Install.sql et bankroll-connect/db-connect.php.
+Notez-bien que l'utilisateur "bankroll:B@nkr01l" est utilisé lors de la connexion à la base de données "bankroll", sur laquelle sont enregistrées les données receuillies du site web. Vous pouvez changer cet utilisateur, ainsi que la base de données utilisée, en mettons à jour les fichiers Install.sql et bankroll-connect/db-connect.php.
 
 ## Langages/Librairies employés
 Pour réaliser ce site, j'ai utilisé plusieurs langages de programmation et de balisage, à savoir : 
